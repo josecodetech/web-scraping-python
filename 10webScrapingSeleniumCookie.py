@@ -21,4 +21,3 @@ except Exception as e:
 finally:
     driver.implicitly_wait(1)
     driver.quit()
-
