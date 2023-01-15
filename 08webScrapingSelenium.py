@@ -1,4 +1,5 @@
-from selenium import webdriver
+from selenium import
+from selenium.webdriver.chrome.options import Options
 import time
 url = 'https://josecodetech.es/'
 opciones = webdriver.ChromeOptions()
